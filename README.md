@@ -1,7 +1,7 @@
  ![Hi there 👋](https://res.cloudinary.com/dgczdbw9b/image/upload/v1594745503/Data_Analytics_and_Datascience_1_wjn721.png)
 
 
-## 🔎 Aboout Me:
+## 🔎 About Me:
 
  - 🔭 I’m currently a student specialized in Quantitative Economics
  - 🌱 I’m currently learning the field of Data Science and deep diving in large datasets

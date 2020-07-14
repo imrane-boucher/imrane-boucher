@@ -3,8 +3,8 @@
 
 ## 🔎 Aboout Me:
 
-### - 🔭 I’m currently a student specialized in Quantitative Economics
-### - 🌱 I’m currently learning the field of Data Science and deep diving in large datasets
+ - 🔭 I’m currently a student specialized in Quantitative Economics
+ - 🌱 I’m currently learning the field of Data Science and deep diving in large datasets
 
 <!--
 **imrane-boucher/imrane-boucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

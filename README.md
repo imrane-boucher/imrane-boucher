@@ -1,4 +1,4 @@
- ![Hi there 👋](https://res.cloudinary.com/dgczdbw9b/image/upload/v1594745405/Data_Analytics_and_Datascience_1_c60k12.png)
+ ![Hi there 👋](https://res.cloudinary.com/dgczdbw9b/image/upload/v1594745503/Data_Analytics_and_Datascience_1_wjn721.png)
 
 <!--
 **imrane-boucher/imrane-boucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

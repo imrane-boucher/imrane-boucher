@@ -6,7 +6,7 @@
  - 🔭 I’m currently a student specialized in Quantitative Economics
  - 🌱 I’m currently learning the field of Data Science and deep diving in large datasets
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrane-boucher)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrane-boucher&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **imrane-boucher/imrane-boucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

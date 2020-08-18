@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[https://www.linkedin.com/in/imrane-boucher-1446b5183]<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/imrane-boucher-1446b5183]
 
 <!--
 **imrane-boucher/imrane-boucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

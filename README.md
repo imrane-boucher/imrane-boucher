@@ -8,6 +8,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrane-boucher&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+**Programming languages and Tools**:
+
+**Connect with me:**
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />
+
 <!--
 **imrane-boucher/imrane-boucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

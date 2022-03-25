@@ -1,6 +1,3 @@
- ![Hi there 👋]
-
-
 ## 🔎 About Me:
 
  - 🔭 I’m currently a student specialized in Quantitative Economics
